@@ -111,4 +111,4 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Khushi Creator
+Khushi Nanekar
