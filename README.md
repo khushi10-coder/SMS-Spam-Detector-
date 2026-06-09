@@ -100,6 +100,15 @@ streamlit run app.py
 
 ---
 
+
+## Screenshots - 
+<img width="1133" height="841" alt="Screenshot 2026-06-09 183107" src="https://github.com/user-attachments/assets/23409be2-51b6-44d7-8a78-13761f7082ef" />
+<img width="1080" height="558" alt="spam" src="https://github.com/user-attachments/assets/4ed3ef79-52b7-4b42-8643-25ea412ad5cc" />
+<img width="1728" height="907" alt="prediction" src="https://github.com/user-attachments/assets/7b2816c4-1fc9-4317-9c57-a51b593ff3ef" />
+
+
+
+
 ## 👨‍💻 Author
 
 Khushi Creator
